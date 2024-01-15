@@ -1,0 +1,95 @@
+header{
+
+font-family:Arial; 
+text-align: center; 
+padding: 10px 10px 10px 10px; 
+margin: 20px 0 0 0; 
+}
+
+body{
+  font-family:Arial; 
+  background-color:	#a9bfa6;
+}
+
+h1{
+  font-size: 30px; 
+}
+
+h2{
+  font-size: 20px; 
+  font-weight: 100;
+}
+
+#img-div{
+  background-color:#7e947e; 
+  padding: 10px; 
+  display: block;
+  margin: 0; 
+}
+
+
+#image{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto; 
+}
+
+#img-caption{
+  display:block;
+  margin: 15px 0 5px 0; 
+  text-align: center; 
+  font-size: 10px; 
+}
+
+#tribute-info{
+  text-align: center; 
+  text-decoration: underline; 
+  font-size: 20px; 
+}
+
+ul{
+  margin: 0 15px; 
+  text-align: left; 
+}
+
+li{
+  margin: 16px 0;
+}
+
+#quote{
+  font-style: italic; 
+  text-align:center; 
+  margin: 10px 0;
+}
+
+.break{
+  border: 1px solid #7e947e; 
+  margin: 0; 
+  padding: 0; 
+}
+
+#link{
+  text-align: center; 
+  color: #7e947e;
+}
+
+#tribute-link:link{
+  color: #7e947e;
+  text-decoration: none; 
+}
+
+#tribute-link:visited{
+  color: #7e947e;
+  text-decoration: none;
+}
+
+#tribute-link:hover{
+  text-decoration:underline; 
+}
+
+#tribute-link:active{
+  text-decoration: underline; 
+  color: #bccdba;
+}
+
